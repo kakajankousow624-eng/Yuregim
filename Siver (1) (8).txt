@@ -1,8 +1,8 @@
 vless://2d973d59-cc7d-480f-8f47-b01f4443e5cf@146.75.122.40:443?mode=packet-up&path=%2F&security=tls&alpn=h3&encryption=none&insecure=1&host=sdfgasgiouhda.net&fp=chrome&type=xhttp&allowInsecure=1&sni=146.75.122.40#Suny%20islet%20son%20obnowleniya%20bas%20%F0%9F%87%A9%F0%9F%87%AA
 vless://2d973d59-cc7d-480f-8f47-b01f4443e5cf@146.75.122.40:443?mode=packet-up&path=%2F&security=tls&alpn=h3&encryption=none&insecure=1&host=iugojouog.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=8.8.8.8#Suny%20islet%20son%20obnowleniya%20bas%F0%9F%87%B7%F0%9F%87%BA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RGJIMWZvWUd2bHNoMEwwazc1SWZB@149.28.230.105:44#Kakajan%201%20%F0%9F%87%B9%F0%9F%87%B2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RGJIMWZvWUd2bHNoMEwwazc1SWZB@149.28.230.105:44#Kakajan%202%20%F0%9F%87%B9%F0%9F%87%B2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RGJIMWZvWUd2bHNoMEwwazc1SWZB@149.28.230.105:44#Kakajan%203%20%F0%9F%87%B9%F0%9F%87%B2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RGJIMWZvWUd2bHNoMEwwazc1SWZB@149.28.71.186:44#Kakajan%20ss%201%20%F0%9F%87%B9%F0%9F%87%B2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RGJIMWZvWUd2bHNoMEwwazc1SWZB@149.28.71.186:44#Kakajan%20ss%202%20%F0%9F%87%B9%F0%9F%87%B2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RGJIMWZvWUd2bHNoMEwwazc1SWZB@149.28.71.186:44#Kakajan%20ss%203%20%F0%9F%87%B9%F0%9F%87%B2
 vless://2d973d59-cc7d-480f-8f47-b01f4443e5cf@209.85.233.139:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=jq9dpixztq-544922112075.europe-west1.run.app&fp=chrome&type=ws&allowInsecure=0&sni=google.com#Kakajan%201%20%F0%9F%87%B9%F0%9F%87%B2
 vless://2d973d59-cc7d-480f-8f47-b01f4443e5cf@66.102.1.17:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=jq9dpixztq-544922112075.europe-west1.run.app&fp=chrome&type=ws&allowInsecure=0&sni=google.com#Kakajan%202%20%F0%9F%87%B9%F0%9F%87%B2
 vless://2d973d59-cc7d-480f-8f47-b01f4443e5cf@209.85.233.139:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=gdfser-544922112075.europe-west1.run.app&fp=chrome&type=ws&allowInsecure=0&sni=google.com#Kakajan%203%20%F0%9F%87%B9%F0%9F%87%B2
