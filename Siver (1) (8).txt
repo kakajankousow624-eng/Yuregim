@@ -2,8 +2,12 @@ vless://37121057-f612-4b43-99a9-7f2d74d8eaf5@64.233.162.113:443?path=%2F&securit
 vless://37121057-f612-4b43-99a9-7f2d74d8eaf5@142.251.155.119:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=yawbqe66uy-927421798549.europe-west1.run.app&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#Kakajan%204%20%F0%9F%87%AC%F0%9F%87%A7
 vless://37121057-f612-4b43-99a9-7f2d74d8eaf5@64.233.162.113:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=r08znskkqm-927421798549.europe-west1.run.app&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#Kakajan%207%20%F0%9F%87%B7%F0%9F%87%BA
 vless://37121057-f612-4b43-99a9-7f2d74d8eaf5@142.251.155.119:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=r08znskkqm-927421798549.europe-west1.run.app&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#Kakajan%208%20%F0%9F%87%B7%F0%9F%87%BA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RGJIMWZvWUd2bHNoMEwwazc1SWZB@212.100.171.213:44#%F0%9F%87%B3%F0%9F%87%B1%20Kakajan%209
 vless://f2bd61f7-9198-4ac1-b9bd-70596c1da059@45.137.81.150:654?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20Kakajan%2010
 vless://f2bd61f7-9198-4ac1-b9bd-70596c1da059@45.137.81.150:654?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Kakajan%2011
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RGJIMWZvWUd2bHNoMEwwazc1SWZB@212.100.171.213:44#%F0%9F%87%BA%F0%9F%87%B8%20Kakajan%2012
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5d2Vickk3aEpTdUJNQ3c4RFljT09B@45.137.81.149:443#%F0%9F%87%AB%F0%9F%87%AE%20Kakajan%2077
+vless://37121057-f612-4b43-99a9-7f2d74d8eaf5@64.233.162.113:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=l8snkm2tgh-927421798549.europe-west4.run.app&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#Kakajan%201%20%F0%9F%87%B8%F0%9F%87%AA
+vless://37121057-f612-4b43-99a9-7f2d74d8eaf5@142.251.155.119:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=l8snkm2tgh-927421798549.europe-west4.run.app&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#Kakajan%202%20%F0%9F%87%B8%F0%9F%87%AA
+vless://37121057-f612-4b43-99a9-7f2d74d8eaf5@64.233.162.113:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sdfgsd-927421798549.europe-west4.run.app&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#Kakajan%205%20%F0%9F%87%A9%F0%9F%87%AA
+vless://37121057-f612-4b43-99a9-7f2d74d8eaf5@142.251.155.119:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sdfgsd-927421798549.europe-west4.run.app&fp=chrome&type=ws&allowInsecure=0&sni=www.google.com#Kakajan%206%20%F0%9F%87%A9%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RGJIMWZvWUd2bHNoMEwwazc1SWZB@198.244.142.249:44#%F0%9F%87%AB%F0%9F%87%AE%20Kakajan
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RGJIMWZvWUd2bHNoMEwwazc1SWZB@198.244.142.249:44#%F0%9F%87%B9%F0%9F%87%B7%20Kakajan
